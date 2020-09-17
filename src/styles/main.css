@@ -1,0 +1,35 @@
+/* .unlocked{
+  display: none;
+}
+
+.locked :hover{
+  display: none;
+  color: red;
+}
+
+.unlocked :hover::before{
+  display: inline-block;
+} */
+
+.par{
+  font-family: ParisParisienneien;
+}
+
+/* width image */
+
+.image {
+  height: 100%;
+  width: 100%;
+}
+
+/* redimension top thing complements tailwind */
+.top-40 {
+  top: 40%;
+}
+
+/* background color do nubank */
+
+.background-nubank {
+  background: rgb(83, 0, 130);
+  height: 70%;
+}
